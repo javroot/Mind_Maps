@@ -1,5 +1,8 @@
-hello 
-everything you need to now is here on http mind map 
+Hello 👋
+everything you need to now is here on http cheat sheet  mind map for example:
+
+
+
 Headers 
 response 
 CSP directives
