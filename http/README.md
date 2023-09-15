@@ -1,5 +1,5 @@
 hello 
-every think you need to now on http for example 
+everything you need to now is here on http mind map 
 Headers 
 response 
 CSP directives
